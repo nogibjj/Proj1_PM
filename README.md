@@ -1,1 +1,5 @@
 # Proj1_PM
+
+This is Project 1 where I write a big data script that sues the pandas API for Dask. This completes all three goals, 1) demonstrates I can build a microservice, notebook, or command-line tool that talks to a big data system, 2) built a very simple system that follows the microservice philosophy, and 3) built a project that demonstrates that I am could be a great hire for an organization that needs to do work with Big Data system.
+
+Here I use Dask to create a dask data frame and demonstrate the difference in time compared to Pandas for a simple task like loading the csv file into a notebook. This is a small microservice that can compute the computational time difference between a data set in pandas or dask so someone can determine which is the right approach to their data science problem. As I have no desire to be a data engineer or a data scientist in industry, this project sufficently demonstrate proficiency and understanding of the topic while developing a minimum viable product (MVP) that progresses my educational and career goals with cognitive neuroscience/academia.
